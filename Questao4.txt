@@ -1,0 +1,5 @@
+A primeira vez ligue 1 lampada e aguarde uns minutos,
+apague ela e acenda outra e deixe a 3° apagada, assim você vai 
+ver 1 lampada acesa e uma vai estar quente, assim a quente será a 
+do 1° interruptor e a acesa do 2° e para confirmar, agora você acende 
+apenas a 3° para saber qual sera a lampada.
